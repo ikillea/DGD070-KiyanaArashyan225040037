@@ -1,0 +1,1 @@
+This folder is for Entitas integration. Place the Entitas.Unity package files here.
